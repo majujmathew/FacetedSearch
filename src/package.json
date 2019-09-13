@@ -1,0 +1,12 @@
+{
+  "name": "faceted-search-filter-thing",
+  "main": "filter.js",
+  "dependencies": {
+    "faker": "4.1.0",
+    "modern-normalize": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "keywords": [],
+  "description": ""
+}
